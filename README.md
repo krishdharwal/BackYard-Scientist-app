@@ -36,6 +36,9 @@ you can mail me in here knightkrishcoc3@gmail.com and this project is opensource
 
 ---
 
+## 🔮Kestra Usage
+push the files through kestra
+
 Over & Out!
 
  
