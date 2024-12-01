@@ -1,0 +1,19 @@
+/* Make sure the body has proper height */
+body {
+    height: 100%;
+    overflow-y: auto;
+}
+
+/* For a specific container that needs scrolling */
+.scrollable-container {
+    height: 400px; /* or any fixed height */
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch; /* for smooth scrolling on iOS */
+}
+
+.main-container {
+    -webkit-overflow-scrolling: touch;
+    overflow-y: auto;
+    height: 100vh;
+    position: relative;
+} 
